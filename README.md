@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @K2PP4
+# 👋 Hi, I’m @K2PP4
 - 👀 I’m interested in Learning!
 - 🌱 I’m currently learning C, C# and Python
 - 💞️ I’m looking to collaborate on anything i can learn something from! :)
